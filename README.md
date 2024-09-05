@@ -25,3 +25,7 @@ Our solution approach is:
 - Data analyis and training using several ML Algorithms
 - Model Deployment 
 
+## Screenshots
+
+![Screenshot 2024-09-05 211501](https://github.com/user-attachments/assets/881ce730-84ac-4c8f-82b6-8b3e338a92b3)
+![Screenshot 2024-09-05 211540](https://github.com/user-attachments/assets/f7188698-a89c-49a4-87f3-3316b13a9fda)
